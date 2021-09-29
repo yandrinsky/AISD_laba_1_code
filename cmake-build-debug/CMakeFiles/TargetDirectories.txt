@@ -1,0 +1,3 @@
+C:/Users/pro10/CLionProjects/learnCpp/cmake-build-debug/CMakeFiles/learnCpp.dir
+C:/Users/pro10/CLionProjects/learnCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pro10/CLionProjects/learnCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
